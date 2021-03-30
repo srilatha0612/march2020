@@ -21,6 +21,8 @@ class ThreadDemon{
         o.start();
         for (int i=0;i<5;i++){
             System.out.println("main method");
+            System.out.println("main method");
+
         }
     }
 }
